@@ -1,0 +1,9 @@
+*.iml
+out/
+.idea/
+.DS_Store
+*/target/
+*/*.iml
+target/
+libs/
+*/src/main/webapp/WEB-INF/*.json
